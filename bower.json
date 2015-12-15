@@ -1,0 +1,18 @@
+{
+  "name": "fs-plualize",
+  "description": "",
+  "main": [
+    "pluralize.js"
+  ],
+  "dependencies": {
+  },
+  "authors": [
+    "Firestitch Inc."
+  ],
+  "license": "MIT",
+  "ignore": [
+    "src",
+    ".gitignore"
+  ],
+  "private": false
+}
